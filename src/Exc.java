@@ -30,8 +30,20 @@ public class Exc {
    {
     System.out.printf("6");
       }
+
       System.out.println("pgm change by branch2");
+System.out.println(" program changes by branch1");
   }
    
 
-}
+
+      
+     
+   }
+  
+  
+  
+  
+  
+
+
